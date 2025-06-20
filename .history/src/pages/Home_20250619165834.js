@@ -38,6 +38,7 @@ export default function Home() {
     <div className="container mt-4">
       <h2 className="mb-3">Available Hotel Listings</h2>
 
+      {/* ✅ Search Bar */}
       <div className="mb-4">
         <input
           type="text"
